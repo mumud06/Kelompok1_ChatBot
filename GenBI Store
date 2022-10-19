@@ -1,0 +1,127 @@
+{
+    "Dataset":[
+        {
+            "tag": "greeting",
+            "patterns": [
+              "hallo",
+              "hai",
+              "halo",
+              "hei",
+              "hi",
+              "hy",
+              "pagi",
+              "morning",
+              "siang",
+              "afternoon",
+              "sore",
+              "malam",
+              "bro",
+              "sis",
+              "kawan"
+            ],
+            "responses": [
+              "Hai! Mau tau informasi tentang GenBI Store?",
+              "Halo! Salam kenal yah! Mau tau tentang GenBI Store kan? ",
+              "Helo! lagi kepo tentang GenBI Store ya?"
+            ]
+          },
+          {
+            "tag": "GenBi Store",
+            "patterns": [
+              "Apa itu GenBI Store?"
+
+            ],
+            "responses": [
+              "GenBI store adalah aplikasi pemesanan makanan secara online di kota Majene, tidak hanya itu aplikasi ini juga bisa memesan jasa kurir di kota majene dan sekitarnya "
+            ]
+          },
+          {
+            "tag": "Penciptaan",
+            "patterns": [
+              "Siapa pembuat Genbi Store?",
+              "Siapa yang menciptakan GenBI Store?"
+            ],
+            "responses": [
+              "GenBI Store diciptakan oleh pemuda di kota majene bernama Muh Khaeril HR",
+              "Penciptaku berasal dari sekelompok pemuda dikota majene, yang ingin memajukan daerahnya melalui digitalisasi!"
+            ]
+          },
+          {
+            "tag": "goodbye",
+            "patterns": [
+              "Dah",
+              "Dadah",
+              "Bye",
+              "Byee",
+              "Good bye",
+              "Selamat tinggal",
+              "Sampai jumpa",
+              "Bai",
+              "See you"
+            ],
+            "responses": [
+              "Bye!",
+              "Dadahh!",
+              "Good bye!",
+              "Dahh, semoga harimu menyenangkan yaa!",
+              "Sampai jumpa lagi!",
+              "See u! Senang bisa membantu"
+            ]
+          },
+          {
+            "tag": "terimakasih",
+            "patterns": [
+              "Thanks",
+              "Thank you",
+              "Terima kasih",
+              "Makasih",
+              "Terima kasih banyak"
+            ],
+            "responses": [
+              "Dengan senang hati :)",
+              "Sama-sama yaa"
+            ]
+          },
+          {
+            "tag": "Pembuatan",
+            "patterns": [
+              "Mengapa GenBI Store dibuat?",
+              "Alasan dibuatnya GenBI Store?"
+            ],
+            "responses": [
+              "Berawal dari teman-teman mahasiswa yang bekerja sebagai kurir, mahasiswa yang kesulitan mencari makanan tengah malam, dan guna mendorong masyarakat Majene menuju digitalisasi telah menginspirasi kami untuk menciptakan aplikasi ini."
+            ]
+          },
+          {
+            "tag": "Keunggulan",
+            "patterns": [
+              "Apa Keunggulan Genbi Store?"
+            ],
+            "responses": [
+              "Keunggulan dari aplikasi ini adalah tidak perlu log-in sehingga data pribadi terlindungi tetapi langsung terhubungkan ke WhatsApp. Cara menggunakan aplikasi ini juga cukup mudah karena fitur dan petunjuknya jelas. Cukup mendownload aplikasinya di google play store."
+
+            ]
+          },
+          {
+            "tag": "Rilis",
+            "patterns": [
+              "Kapan diluncurkan Genbi store?",
+              "Kapan GenBi Store rilis?"
+            ],
+            "responses": [
+              "Genbi Store dirilis 9 November 2021 "
+
+            ]
+          },
+          {
+            "tag": "Pembayaran",
+            "patterns": [
+              "Bagaimana cara pembayaran GenBI Store?"
+            ],
+            "responses": [
+              "Pembayaran Genbi Store dapat secara tunai atau melalui QRIS  "
+
+            ]
+          }    
+    ]
+}
